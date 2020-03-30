@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/home/login.js.0b92c2a41132b85cb38a.hot-update.js","sources":["webpack:///./setting.js"],"sourcesContent":["const serverUrl = \"http://192.168.0.115:8000\";\n// const serverUrl = \"http://192.168.0.114:5011\";\n\nexport default serverUrl;"],"mappings":";;;;;;;;;;AAAA;AAAA;AACA;AAEA;;;;A","sourceRoot":""}
