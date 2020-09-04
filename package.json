@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "next": "^8.0.0",
     "next-auth": "^1.12.1",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "now": "^15.3.0",
     "pure-react-carousel": "^1.21.2",
     "react": "^16.7.0",
